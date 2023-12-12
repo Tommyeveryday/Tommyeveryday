@@ -1,4 +1,4 @@
-<div align"center"> <img src="![Uploading image.png…]()
+<div align"center"> <img src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif
 "> </div>
 <h1 align="center">Hi 👋, I'm Rama Tommy Saputera</h1>
 <h3 align="center">A Passionate Web developer I Study in Universitas Hindu Indonesia</h3>
