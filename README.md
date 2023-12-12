@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rama Tommy Saputera</h1>
 <h3 align="center">A Passionate Web developer I Study in Universitas Hindu Indonesia</h3>
 
-- 🌱 I’m currently learning **Java Script, Tailwind CSS, PHP (Code Igniter 4, Laravel 7))**
+- 🌱 I’m currently learning **Java Script, Tailwind CSS, PHP (Code Igniter 4, Laravel 7)**
 
 - 📫 How to reach me **Ramatommy03@gmail.com**
 
