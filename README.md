@@ -1,4 +1,4 @@
-<div align"center"> <img src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif"> </div>
+<div align"center"> <img src="https://storage.modworkshop.net/mods/images/preview_45642_1501755208_38b9f66b4825147ac7bfe81fb9f7accc.gif"> </div>
 <h1 align="center">Hi 👋, I'm Rama Tommy Saputera</h1>
 <h3 align="center">A Passionate Web developer I Study in Universitas Hindu Indonesia</h3>
 
